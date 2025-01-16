@@ -12,7 +12,7 @@ This website only presents the front-end functionality, with a simulated back-en
 
 ## Website Link
 
-The website can be found on [Github Pages](https://iethix.github.io/EventBoard/)
+The website can be found on [Github Pages](https://ethhix.github.io/EventBoard/)
 
 
 
